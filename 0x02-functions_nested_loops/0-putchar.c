@@ -1,7 +1,8 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by Timothy
+	 * main - entry point
+	 * Description: code prints out _putchar
+	 *
 	 * Return: 0
 	 */
 
