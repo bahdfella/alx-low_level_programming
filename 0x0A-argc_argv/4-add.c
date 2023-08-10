@@ -130,11 +130,10 @@
                 }
 
 
-
-                printf("%d\n", sum); /*print sum*/
-
+	printf("%d\n", sum); /*print sum*/
 
 
-                return (0);
 
-        }
+	return (0);
+
+}
